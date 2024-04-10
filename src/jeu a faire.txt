@@ -1,0 +1,20 @@
+hangman avoir une lettre afficher pour 1000point
+
+
+
+decoupe tout en 30 ligne
+ecrire en gors les nom des missions
+range code
+commentaire
+
+limite de mana
+gestion d'erreur
+Bonus 1 c'est juste histoir a continuer avec genre un deuxime boss J
+
+
+bonus revente d'objet
+refaire le diagramme avec tout
+size marche pas 
+music potentielement refaire
+diagramme de kant et et aurtre
+potion de mana
